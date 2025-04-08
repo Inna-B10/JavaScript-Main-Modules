@@ -4,3 +4,6 @@
 [submodule "Exercises/2024-01-18-JAVASCRIPT-oppgave-2"]
 	path = Exercises/2024-01-18-JAVASCRIPT-oppgave-2
 	url = https://github.com/Inna-B10/2024-01-18-JAVASCRIPT-oppgave-2.git
+[submodule "Exercises/2024-02-02-JAVASCRIPT-Simple-Todo-list"]
+	path = Exercises/2024-02-02-JAVASCRIPT-Simple-Todo-list
+	url = https://github.com/Inna-B10/2024-02-02-JAVASCRIPT-Simple-Todo-list.git
