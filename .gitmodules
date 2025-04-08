@@ -7,3 +7,6 @@
 [submodule "Exercises/2024-02-02-JAVASCRIPT-Simple-Todo-list"]
 	path = Exercises/2024-02-02-JAVASCRIPT-Simple-Todo-list
 	url = https://github.com/Inna-B10/2024-02-02-JAVASCRIPT-Simple-Todo-list.git
+[submodule "Study-Materials/2024-02-05-JAVASCRIPT-Advanced"]
+	path = Study-Materials/2024-02-05-JAVASCRIPT-Advanced
+	url = https://github.com/Inna-B10/2024-02-05-JAVASCRIPT-Advanced.git
