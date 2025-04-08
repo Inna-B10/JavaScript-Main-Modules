@@ -13,3 +13,6 @@
 [submodule "Study-Materials/2024-02-08-JAVASCRIPT-Datastruktur-metoder-og-JSON"]
 	path = Study-Materials/2024-02-08-JAVASCRIPT-Datastruktur-metoder-og-JSON
 	url = https://github.com/Inna-B10/2024-02-08-JAVASCRIPT-Datastruktur-metoder-og-JSON.git
+[submodule "Study-Materials/2024-02-12-JAVASCRIPT-Hendelser-og-hendelsesbehandling-oppgave"]
+	path = Study-Materials/2024-02-12-JAVASCRIPT-Hendelser-og-hendelsesbehandling-oppgave
+	url = https://github.com/Inna-B10/2024-02-12-JAVASCRIPT-Hendelser-og-hendelsesbehandling-oppgave.git
