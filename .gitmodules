@@ -10,3 +10,6 @@
 [submodule "Study-Materials/2024-02-05-JAVASCRIPT-Advanced"]
 	path = Study-Materials/2024-02-05-JAVASCRIPT-Advanced
 	url = https://github.com/Inna-B10/2024-02-05-JAVASCRIPT-Advanced.git
+[submodule "Study-Materials/2024-02-08-JAVASCRIPT-Datastruktur-metoder-og-JSON"]
+	path = Study-Materials/2024-02-08-JAVASCRIPT-Datastruktur-metoder-og-JSON
+	url = https://github.com/Inna-B10/2024-02-08-JAVASCRIPT-Datastruktur-metoder-og-JSON.git
